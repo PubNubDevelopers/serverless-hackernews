@@ -2,6 +2,8 @@
 
 [PubNub Functions](https://www.pubnub.com/products/functions/?devrel_gh=serverless-hackernews) enables a developer to deploy a globally replicated, infinite scaling application in seconds. Paste the JavaScript code in `on-request-handler.js` into your own PubNub Function to create your own Hacker News like link sharing app.
 
+[![Serverless Hacker News App with PubNub Functions](https://github.com/PubNubDevelopers/serverless-hackernews/blob/master/pubnub-serverless-app-screenshot.png?raw=true)](https://pubsub.pubnub.com/v1/blocks/sub-key/sub-c-4ab8fea0-3600-11e9-82f9-d2a672cc1cb7/hn)
+
 ## About the App
 
 The app is a web page where users can share links. The API stores up to 10 links at a time. Globally, users can submit up to 1 link per second. The links are stored in the PubNub Functions KVStore. The PubNub Function has routes for:
