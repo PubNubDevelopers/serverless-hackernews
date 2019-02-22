@@ -10,6 +10,10 @@ The app is a web page where users can share links. The API stores up to 10 links
  - posting a link
  - getting all the links
  - getting the web page
+ 
+## Tutorial to Build Your Own
+
+https://www.pubnub.com/blog/serverless-hacker-news-clone-pubnub-functions/?devrel_gh=serverless-hackernews
 
 ## Development
 
