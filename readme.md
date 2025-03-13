@@ -19,7 +19,7 @@ https://www.pubnub.com/blog/serverless-hacker-news-clone-pubnub-functions/?devre
 
 First, I made an account at PubNub.com and created a Function in my demo app. I selected the **On Request** type.
 
-[![Create a PubNub Function](https://github.com/PubNubDevelopers/serverless-hackernews/blob/master/function-create-flow.png?raw=true)](https://dashboard.pubnub.com/?devrel_gh=serverless-hackernews)
+[![Create a PubNub Function](https://github.com/PubNubDevelopers/serverless-hackernews/blob/master/function-create-flow.png?raw=true)](https://admin.pubnub.com/register)
 
 Then I did made my node.js-like serverless event handler API, with 3 routes.
 
